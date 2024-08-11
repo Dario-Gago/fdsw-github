@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/WIN_20240810_18_31_02_Pro.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -36,4 +36,13 @@ body {
     width: 100px;
   }
 
+}
+#imagen_javascript{
+  width: 30%;
+}
+#imagen_css{
+  width: 20%;
+}
+#imagen_html{
+  width: 30%;
 }
